@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <p>
     <img src="tenor.gif" width="290px" align="left" alt="Image from: https://tenor.com/">
     <div>
-        <a href="https://github.com/sCar3Cr0w25"><img src="https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@sCar3Cr0w25&color=2d5555&labelColor=3f7676&logoColor=dfeeee"></a>
-        <a href="https://www.linkedin.com/in/md-sazzad-hossain-19aa23190"><img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=LinkedIn&color=2d5555&labelColor=3f7676&logoColor=dfeeee"></a>
+        <a href="https://github.com/sCar3Cr0w25"><img src="https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@sCar3Cr0w25&color=64252C&labelColor=B9424F&logoColor=dfeeee"></a>
+        <a href="https://www.linkedin.com/in/md-sazzad-hossain-19aa23190"><img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=LinkedIn&color=64252C&labelColor=B9424F&logoColor=dfeeee"></a>
         <hr>
         <samp>
         <strong>Hi, I'm Sazzad!</strong> 👋 I'm a self-taught web developer with a strong will to learn, research new technologies, and design software architecture. I like creating practical business solutions and making development processes as efficient as possible.
