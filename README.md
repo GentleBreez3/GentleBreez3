@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="tenor.gif" width="290px" align="left" alt="Image from: https://tenor.com/">
     <div>
         <a href="https://scar3cr0w25.github.io/"><img src="https://img.shields.io/badge/-Portfolio-dfdfdf?style=flat-square&label=&message=portfolio&color=64252C&labelColor=B9424F&logoColor=dfeeee"></a>
-        <a href="https://github.com/sCar3Cr0w25"><img src="https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@sCar3Cr0w25&color=64252C&labelColor=B9424F&logoColor=dfeeee"></a>
+        <a href="https://github.com/GentleBreez3"><img src="https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@sCar3Cr0w25&color=64252C&labelColor=B9424F&logoColor=dfeeee"></a>
         <a href="https://www.linkedin.com/in/md-sazzad-hossain-19aa23190"><img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=LinkedIn&color=64252C&labelColor=B9424F&logoColor=dfeeee"></a>
         <hr>
         <samp>
